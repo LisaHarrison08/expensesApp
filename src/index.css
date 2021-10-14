@@ -1,8 +1,8 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: Monaco, Courier, fantasy;
-  background: linear-gradient(89deg, #7e6885 0%, #a798fa 100%); /* w3c */
+  font-family: Futura, Courier, monospace;
+  background: linear-gradient(89deg, #e0a9d5 0%, #7e44db 100%); /* w3c */
 }
 
 button {
